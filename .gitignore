@@ -1,0 +1,3 @@
+node_modules/
+fast_import_crash_*
+*.log

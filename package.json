@@ -1,0 +1,14 @@
+{
+  "name": "contribution-art-2023-to-now",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Artificial contribution graph artwork with monthly random gaps",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "preview": "node index.js --preview",
+    "generate": "node index.js --generate",
+    "verify": "node index.js --verify"
+  },
+  "engines": { "node": ">=20" }
+}
